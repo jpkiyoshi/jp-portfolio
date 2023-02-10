@@ -3,6 +3,7 @@ import adivinheNumero from '../assets/adivinhe-o-numero.png';
 import bonitaaoquadrado from '../assets/bonitaaoquadrado.png';
 import contasdefadas from '../assets/contas-de-fadas.png';
 import jpconverter from '../assets/jp-converter.png';
+import frontendmentor from '../assets/frontendmentor.png';
 
 const Projects = () => {
 	const projects = [
@@ -33,6 +34,13 @@ const Projects = () => {
 			desc: 'Ferramenta que mostra o preço do kg/litro de um produto baseado em seu preço e seu peso/volume.',
 			live: 'https://jp-converter.netlify.app/',
 			code: 'https://github.com/jpkiyoshi/jp-converter',
+		},
+		{
+			img: frontendmentor,
+			title: 'Desafios do frontendmentor.io',
+			desc: 'Minhas soluções aos desafios do frontendmentor.io (site que fornece desafios de design e desenvolvimento front-end)',
+			live: 'https://www.frontendmentor.io/profile/jpkiyoshi/solutions',
+			code: 'https://github.com/jpkiyoshi',
 		},
 	];
 
