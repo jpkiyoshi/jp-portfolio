@@ -3,52 +3,48 @@
 @tailwind utilities;
 
 html {
-    scroll-behavior: smooth;
+	scroll-behavior: smooth;
 }
 
 body {
-    @apply text-lg
+	@apply text-lg;
 }
 
 .projects img {
-    width: 100%;
+	width: 100%;
 }
 
 /* color */
 .bg-primary {
-    background: #0F172A;
+	background: #0f172a;
 }
 
 .bg-secondery {
-    background: #1E293B;
+	background: #1e293b;
 }
 
 .bg-accent {
-    background: #7477FF;
+	background: #7477ff;
 }
 
 .text-accent {
-    color: #7477FF;
+	color: #7477ff;
 }
 
-
 nav li a {
-    @apply px-4 py-5 text-lg;
+	@apply px-4 py-5 text-lg;
 }
 
 nav li a:hover {
-    color: #7477FF;
+	color: #7477ff;
 }
 
 .mobile-nav {
-    @apply block md:hidden fixed top-10 py-2 w-full h-full bg-gray-900 duration-500;
+	@apply fixed block w-full h-full py-2 duration-500 bg-gray-900 md:hidden top-10;
 }
-
 
 /* hero */
 h1 {
-    font-family: 'Pacifico', cursive;
-    line-height: 1.5 !important;
+	font-family: 'Pacifico', cursive;
+	line-height: 1.5 !important;
 }
-
-
