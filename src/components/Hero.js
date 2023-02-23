@@ -8,9 +8,8 @@ const Hero = () => {
 		<section className='px-5 py-32 text-white bg-primary'>
 			<div className='container grid items-center justify-center mx-auto md:grid-cols-2 md:justify-between'>
 				<div className='pb-5 hero-info md:pb-0'>
-					<h1 className='text-4xl lg:text-6xl'>
-						Olá, <br />
-						Sou João Paulo <span className='text-accent'>Kiyoshi</span> <br />
+					<h1 className='font-sans text-4xl font-bold lg:text-6xl'>
+						João Paulo <span className='text-accent'>Kiyoshi</span> <br />
 						Desenvolvedor Front-end
 					</h1>
 

@@ -51,11 +51,6 @@ const Projects = () => {
 					<h2 className='text-4xl font-bold mb-5 border-b-[5px] w-[180px] border-indigo-600 pb-2'>
 						Projetos
 					</h2>
-
-					<p className='pb-5'>
-						Esses são alguns de meus projetos. Construídos com React, Next.js
-						e JavaScript vanilla.
-					</p>
 				</div>
 
 				<div className='about-img'></div>

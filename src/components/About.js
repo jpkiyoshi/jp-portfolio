@@ -11,10 +11,10 @@ const About = () => {
 					</h2>
 
 					<p className='pb-5'>
-						Olá! Me chamo João Paulo Kiyoshi, e sou um desenvolvedor front-end
-						apaixonado por criar experiências digitais incríveis. Trabalho
-						arduamente para transformar ideias em realidade na tela, sempre
-						procurando aprender e melhorar minhas habilidades.
+						Olá! Sou um desenvolvedor front-end apaixonado por criar
+						experiências digitais incríveis. Trabalho arduamente para
+						transformar ideias em realidade na tela, sempre procurando
+						aprender e melhorar minhas habilidades.
 					</p>
 					<p className='pb-5'>
 						Eu tenho uma ampla gama de habilidades na tecnologia da web,
